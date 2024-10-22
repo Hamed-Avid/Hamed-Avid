@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/hamed-avid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://hamed-avid-portfolio.vercel.app/" target="_blank">
+  <a href="https://hamed-avid.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
